@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    display: grid;
+    min-height: 100vh;
+    background-image: linear-gradient(hsl(206.57,89.74%,54.12%),  #93C5FD);
+}
